@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<UIProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ProjectDir>C:\Users\user\Desktop\GamePortfolios\cocosStudio\Lobby\lobbyMainUI</ProjectDir>
+  <Version>1.6.0.0</Version>
+  <Resources>C:\Users\user\Desktop\GamePortfolios\cocosStudio\Lobby\lobbyMainUI\Resources</Resources>
+  <Name>lobbyMainUI</Name>
+  <JsonFileName>lobbyMainUI.json</JsonFileName>
+  <JsonFolder>C:\Users\user\Desktop\GamePortfolios\cocosStudio\Lobby\lobbyMainUI\Json</JsonFolder>
+  <JsonList>
+    <string>lobbyMainUI.json</string>
+  </JsonList>
+  <CanvasSize>
+    <Width>1150</Width>
+    <Height>575</Height>
+  </CanvasSize>
+  <filePath>C:\Users\user\Desktop\GamePortfolios\cocosStudio\Lobby\lobbyMainUI\lobbyMainUI.xml.ui</filePath>
+  <ProjectType>UIProject</ProjectType>
+  <ResRelativePath />
+  <imageFileList>
+    <string>lobbyMainUI0.plist</string>
+  </imageFileList>
+  <imagePngList>
+    <string>lobbyMainUI0.png</string>
+  </imagePngList>
+  <JsonSuffix>.json</JsonSuffix>
+  <CurrentUIJson>lobbyMainUI.json</CurrentUIJson>
+</UIProject>
